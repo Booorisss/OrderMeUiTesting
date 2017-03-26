@@ -12,9 +12,3 @@ pod 'FacebookLogin'
 pod 'FacebookShare'
 end
 
-target “OrderMEUITests” do
-pod ‘Alamofire’, '~> 4.0’
-pod 'Alamofire-Synchronous', '~> 4.0'
-pod 'ObjectMapper', '~> 2.0’
-pod 'AlamofireImage', '~> 3.1’
-end
